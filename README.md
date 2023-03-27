@@ -1,11 +1,11 @@
 # dsp-yon
-Application code for DSP Yongpulah, 
+Application code for DSP Yongpulah
 
- #Module Name,
+ #Module Name:
  Font Awesome,
  Owl Carousel,
  poll,
  
- #Style file-CSS
+ #Style file-CSS:
  Custom.css
  line- 80 to 90
